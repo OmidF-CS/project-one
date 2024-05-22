@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ex.exe
+=======
+*.exe
+!imp.exe
+>>>>>>> location
 o/

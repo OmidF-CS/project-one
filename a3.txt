@@ -1,2 +1,8 @@
 creat work
+<<<<<<< HEAD
 fdfdf
+=======
+dsdsd
+location3
+
+>>>>>>> location
