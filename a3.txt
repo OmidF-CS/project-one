@@ -1,5 +1,6 @@
 hallo team
+<<<<<<< HEAD
 task 2
-dddd
+gggggggggg
 
 
